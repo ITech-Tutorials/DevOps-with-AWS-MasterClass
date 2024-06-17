@@ -20,7 +20,7 @@ Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprin
 3. Re-work if change required
 
 ## Agile Methodology:-
-![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-Master-Class/assets/40340097/26860533-c64d-4a1a-96ad-92d5d1f009f7)
+![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/d4240602-ae94-4323-bba3-f1b2378bdd5a)
 
 ### Advantages:
 1. Improve Deployment frequency
