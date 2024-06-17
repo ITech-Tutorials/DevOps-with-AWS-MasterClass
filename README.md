@@ -20,12 +20,15 @@ Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprin
 3. Re-work if change required
 
 ## Agile Methodology:-
-![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/d4240602-ae94-4323-bba3-f1b2378bdd5a)
+![1705563632162](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/af509e26-33a9-4551-88ef-20f2b750b2a1)
 
 ### Advantages:
-1. Improve Deployment frequency
-2. Achieve faster time to market
-3. Lower failure rate of new releases
+1. Follows scrum model
+2. Consists of sprints
+3. In every sprint we need to develope deliverables
+4. 100% team velocity
+5. Increased deployment frequency
+6. Quality product
 
 # What is DevOps?
 DevOps is a software developement approach which involves contineous developement, contineous testing, contineous integration, contineous deployment and contineous monitoring of the software throughout it's developement life-cycle.
@@ -33,6 +36,8 @@ DevOps is a software developement approach which involves contineous developemen
 DevOps is nothing but a practice or methodology of making "developers" and "operations" folks work together, hence the term "DevOps".
 
 DevOps = Developement + Operations
+
+![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/d4240602-ae94-4323-bba3-f1b2378bdd5a)
 
 # Tools that will be covered in this Masterclass
 1. Linux Commands
