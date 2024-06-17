@@ -34,4 +34,20 @@ DevOps is nothing but a practice or methodology of making "developers" and "oper
 
 DevOps = Developement + Operations
 
+# Tools that will be covered in this Masterclass
+1. Linux Commands
+2. Shell Scripting
+3. Git and GitHub
+4. Maven
+5. Apache Tomcat
+6. WildFly
+7. Sonarqube
+8. Nexus
+9. Jenkins
+10. Ansible
+11. AWS
+12. Docker
+13. Kubernetes
+14. NewRelic
+
 
