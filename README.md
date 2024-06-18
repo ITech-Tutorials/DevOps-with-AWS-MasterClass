@@ -20,18 +20,17 @@ Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprin
 3. Re-work if change required
 
 ## Agile Methodology:-
-Scrum is a widely used framework for managing complex projects, particularly in the realm of software development. At its core, Scrum promotes a collaborative approach to work, emphasizing teamwork, transparency, and adaptability.
-Scrum operates on the principle of iteration
+1. Scrum is a widely used framework for managing complex projects, particularly in the realm of software development. At its core, Scrum promotes a collaborative approach to work, emphasizing teamwork, transparency, and adaptability.
+2. Scrum operates on the principle of iteration called "sprint"
+3. Lasting one to four weeks.
+4. In every sprint we need to develope deliverables.
+5. Regular meetings, such as daily stand-ups and sprint reviews.
+6. 100% team velocity.
+5. Increased deployment frequency.
+6. Quality product.
 
-![1705563632162](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/af509e26-33a9-4551-88ef-20f2b750b2a1)
+![scrum-methodology](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/f10861d1-d4c5-4c98-8843-57a3ae82fb3f)
 
-### Advantages:
-1. Follows scrum model
-2. Consists of sprints
-3. In every sprint we need to develope deliverables
-4. 100% team velocity
-5. Increased deployment frequency
-6. Quality product
 
 # What is DevOps?
 DevOps is a software developement approach which involves contineous developement, contineous testing, contineous integration, contineous deployment and contineous monitoring of the software throughout it's developement life-cycle.
