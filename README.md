@@ -20,6 +20,9 @@ Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprin
 3. Re-work if change required
 
 ## Agile Methodology:-
+Scrum is a widely used framework for managing complex projects, particularly in the realm of software development. At its core, Scrum promotes a collaborative approach to work, emphasizing teamwork, transparency, and adaptability.
+Scrum operates on the principle of iteration
+
 ![1705563632162](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/af509e26-33a9-4551-88ef-20f2b750b2a1)
 
 ### Advantages:
