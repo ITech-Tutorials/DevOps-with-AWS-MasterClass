@@ -39,7 +39,8 @@ DevOps is nothing but a practice or methodology of making "developers" and "oper
 
 DevOps = Developement + Operations
 
-![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/d951b011-47fa-4072-832b-1a91c0eca830)
+![DevOps Flow drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/93e9476e-6800-4fa6-a9eb-7d1d299fb1f9)
+
 
 
 # Tools that will be covered in this Masterclass
