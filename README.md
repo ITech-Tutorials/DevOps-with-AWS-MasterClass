@@ -4,8 +4,8 @@ A comprehensive guide and codebase for mastering DevOps practices with AWS. This
 ## Why we need to adopt DevOps?
 
 ### SDLC Models:-
-Traditional Model - Waterfall \
-Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprint))
+1. Traditional Model - Waterfall \
+2. Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprint))
 
 ## What is the goal of DevOps?
 1. Improve Deployment frequency
