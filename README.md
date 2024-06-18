@@ -22,12 +22,13 @@ A comprehensive guide and codebase for mastering DevOps practices with AWS. This
 3. Re-work if change required
 
 ## Agile Methodology:-
-1. Scrum is a widely used framework for managing complex projects, particularly in the realm of software development. At its core, Scrum promotes a collaborative approach to work, emphasizing teamwork, transparency, and adaptability.
-2. Scrum operates on the principle of iteration called "sprint"
-3. Lasting one to four weeks.
-4. In every sprint we need to develope deliverables.
-5. Regular meetings, such as daily stand-ups and sprint reviews.
-6. 100% team velocity.
+1. Follows Scrum model.
+2. Scrum is a widely used framework for managing complex projects, particularly in the realm of software development. At its core, Scrum promotes a collaborative approach to work, emphasizing teamwork, transparency, and adaptability.
+3. Scrum operates on the principle of iteration called "sprint"
+4. Lasting one to four weeks.
+5. In every sprint we need to develope deliverables.
+6. Regular meetings, such as daily stand-ups and sprint reviews.
+7. 100% team velocity.
 5. Increased deployment frequency.
 6. Quality product.
 
