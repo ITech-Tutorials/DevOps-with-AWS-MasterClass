@@ -55,5 +55,7 @@ DevOps = Developement + Operations
 12. Docker
 13. Kubernetes
 14. NewRelic
+15. DevOps resume
+16. Interview questions
 
 
