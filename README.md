@@ -26,7 +26,8 @@ A comprehensive guide and codebase for mastering DevOps practices with AWS. This
 5. Increased deployment frequency.
 6. Quality product.
 
-![scrum-methodology](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/f10861d1-d4c5-4c98-8843-57a3ae82fb3f)
+![1705563632162](https://github.com/user-attachments/assets/e26243fa-10a0-41dc-90c6-27dee9d12eb1)
+
 
 
 # What is DevOps?
