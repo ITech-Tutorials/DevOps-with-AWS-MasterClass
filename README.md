@@ -7,12 +7,6 @@ A comprehensive guide and codebase for mastering DevOps practices with AWS. This
 1. Traditional Model - Waterfall 
 2. Current Model - Agile (Scrum Master, Scrum call, Product Owner, Iteration (sprint))
 
-## What is the goal of DevOps?
-1. Improve Deployment frequency
-2. Achieve faster time to market
-3. Lower failure rate of new releases
-
-
 ## Waterfall Model:-
 ![Waterfall Model drawio](https://github.com/ITech-Tutorials/DevOps-with-AWS-MasterClass/assets/40340097/0e78e2e8-077e-44f9-9028-f1f45d730d2e)
 
@@ -45,7 +39,10 @@ DevOps = Developement + Operations
 
 ![DevOps Flow-Page-1 drawio](https://github.com/user-attachments/assets/53e04d22-9a13-46b6-b79e-8ab47d0a8c8c)
 
-
+## What is the goal of DevOps?
+1. Improve Deployment frequency
+2. Achieve faster time to market
+3. Lower failure rate of new releases
 
 # Tools that will be covered in this Masterclass
 1. Linux Commands
